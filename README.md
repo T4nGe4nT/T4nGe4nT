@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicholas Holcomb
 
-<!--
-**T4nGe4nT/T4nGe4nT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated full-stack developer with expertise in **JavaScript, React, HTML, CSS, Java, and SQL**. I’m passionate about building intuitive and user-centered web applications while solving challenging problems.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** HTML, CSS, JavaScript, Java  
+- **Frameworks:** React, Bootstrap, Shadcn, Node.js, Vite  
+- **Tools:** CAD, CNC Operations, Hardware Repair  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Role
+**Apprentice Full-Stack Developer** at Stiegler Ed Tech, creating dynamic web applications with a focus on user experience and Agile practices.
+
+## 📫 Contact
+- **Email:** [nichholcomb@gmail.com](mailto:nichholcomb@gmail.com)  
+- **Location:** Wilmington, NC
